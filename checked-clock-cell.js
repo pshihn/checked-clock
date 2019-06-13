@@ -20,6 +20,7 @@ export class CheckedClockCell extends HTMLElement {
     this.checks = [];
     this.style.display = 'flex';
     this.style.flexDirection = 'column';
+    this.style.pointerEvents = 'none';
   }
 
   setSize(width, height) {
