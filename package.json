@@ -1,0 +1,23 @@
+{
+  "name": "checked-clock",
+  "version": "0.1.0",
+  "description": "A clock that uses other elements with a toggle state as bits to draw numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshihn/checked-clock.git"
+  },
+  "keywords": [
+    "clock",
+    "webcomponent"
+  ],
+  "author": "Preet Shihn <preetshihn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pshihn/checked-clock/issues"
+  },
+  "homepage": "https://github.com/pshihn/checked-clock#readme"
+}
